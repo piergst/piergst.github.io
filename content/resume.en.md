@@ -4,10 +4,9 @@ hideMeta = true
 +++
 
 # Pierre Giusti ッ {style="text-align:center"}
+ > After 10 years of experience in software development, I'm now focused on pentesting and offensive cybersecurity. I like digging deep into technical topics, learning, and building tools.  An unconventional path: carpenter, entrepreneur, Atlantic crossing under sail. When I commit to a project, I see it through to the end.
 
- > Developer with 10 years of experience, specialized in offensive cybersecurity. I like diving deep into technical topics, understanding systems thoroughly and building tools.  An unconventional path: carpenter, entrepreneur, Atlantic crossing under sail. When something inspires me, I see it through to the end.
-
-#### [ France\/Pyrénées ] <br> [ [https://piergst.gitlab.io/resume/](https://piergst.gitlab.io/resume/) ] . [ [https://github.com/piergst](https://github.com/piergst) ] <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] {style="text-align:center; line-height:1.9"}
+#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] {style="text-align:center; line-height:1.9"}
 
 ## Experience {.resume-h2}
 
@@ -15,7 +14,7 @@ hideMeta = true
 
 Startup specializing in AI-driven pentest automation. 
 
-**R&D - AI-powered automated testing platform:** {{< resume/tag "Python" >}} {{< resume/tag "Agno" >}}
+**R&D - AI-powered automated vulnerability research platform:** {{< resume/tag "Python" >}} {{< resume/tag "Agno" >}}
 
 - Manual vulnerability research (bug bounty, AD labs, web labs), reproduction of exploitation paths through the platform, and iteration towards automated detection
 - Design of an evaluation framework for LLM-based pentest agents: multi-level scorers (embeddings, LLM-as-judge), baseline and regression detection
@@ -89,16 +88,15 @@ construction.
 
 ### Offensive Security {.resume-h3}
 
-- Bug bounty
-- Web security on PortSwigger Academy 
-- Web, Active Directory, on HackTheBox (Hacker Rank)
+- Bug bounty (active bounties at **Paypal**)
+- Web security on PortSwigger Academy (+60% of labs)
+- Web, Active Directory, Linux, Prolabs on HackTheBox (Hacker Rank)
 
 ### Cybersecurity Training @Jedha <date>October - December 2025</date> {.resume-h3}
 
 - Intensive training for the Secure Infrastructure Administrator Diploma
 - Application, network, system and cloud security
 - Hands-on practice through labs, attack/defense exercises
-
 
 ## Languages & Environments {.resume-h2}
 
@@ -111,7 +109,7 @@ construction.
   * Azure, Docker, Podman, Proxmox
   * Basic knowledge: AWS, Docker Swarm, Ansible, Terraform
 * **Environments & IDEs:** GitHub, GitLab, VSCode, Neovim, QtCreator, Visual Studio
-* **AI & LLM:** Prompt engineering, agentic flows, LLM agent evaluation
+* **AI & LLM:** AI Development, agentic flows, LLM agent evaluation
 * **Offensive Security:** Exegol, Burp Suite, Caido
 * **Languages:** French (native), English (proficient)
 

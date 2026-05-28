@@ -4,10 +4,9 @@ hideMeta = true
 +++
 
 # Pierre Giusti ッ {style="text-align:center"}
+ > Après 10 ans d'expérience en développement, je suis aujourd'hui focalisé sur le pentest et la cybersécurité offensive. J’aime creuser les sujets techniques, apprendre et développer des outils.  Parcours atypique : charpentier, entrepreneur, traversée de l’Atlantique à la voile. Quand je m'engage dans un projet, je vais au bout.
 
- > Développeur avec 10 ans d’expérience, spécialisé en cybersécurité offensive. J’aime creuser les sujets techniques, comprendre en profondeur et développer des outils.  Parcours atypique : charpentier, entrepreneur, traversée de l’Atlantique à la voile. Quand un projet m’inspire, je vais au bout.
-
-#### [ France\/Pyrénées ] <br> [ [https://piergst.gitlab.io/resume/](https://piergst.gitlab.io/resume/) ] . [ [https://github.com/piergst](https://github.com/piergst) ] <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] {style="text-align:center; line-height:1.9"}
+#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] {style="text-align:center; line-height:1.9"}
 
 ## Expériences professionnelles {.resume-h2}
 
@@ -15,10 +14,10 @@ hideMeta = true
 
 Startup spécialisée dans l'automatisation du pentest par IA.
 
-**R&D - Plateforme de tests automatisés par IA :** {{< resume/tag "Python" >}} {{< resume/tag "Agno" >}}
+**R&D - Plateforme de recherche de vulnérabilités automatisée par IA :** {{< resume/tag "Python" >}} {{< resume/tag "Agno" >}}
 
 - Recherche manuelle de vulnérabilités (bug bounty, labs AD, labs web), reproduction des chemins d'exploitation via la plateforme, et itération jusqu'à détection automatisée
-- Framework d'évaluation pour agents LLM de pentest : scorers multi-niveaux (embeddings, LLM-as-judge), et détection de régression
+- Développement d'un framework d'évaluation pour agents LLM de pentest : scorers multi-niveaux (embeddings, LLM-as-judge), et détection de régression
 - Agent de reconnaissance web autonome avec dashboard temps réel (FastAPI, React, bbot)
 - Pipeline de collecte et d'enrichissement automatisé d'une base de connaissances cybersécurité (crawling, classification et scoring par LLM)
 
@@ -85,16 +84,15 @@ Création de l’entreprise, du concept initial jusqu’à la production et la v
 
 ### Sécurité offensive {.resume-h3}
 
-- Bug bounty
-- Web security sur PortSwigger Academy
-- Web, Active Directory sur HackTheBox (Hacker Rank)
+- Bug bounty (bounties en cours chez **Paypal**)
+- Web security sur PortSwigger Academy (+60% des labs)
+- Web, Active Directory, Linux, Prolabs sur HackTheBox (Hacker Rank)
 
 ### Formation Cybersécurité @Jedha <date>Octobre - Décembre 2025</date> {.resume-h3}
 
 - Formation intensive pour le TP Administrateur d'infrastructures sécurisées
 - Sécurité des applications, réseaux, systèmes et Cloud
 - Mise en pratique sur labs, exercices d'attaque/défense
-
 
 ## Langages & environnements {.resume-h2}
 
@@ -107,7 +105,7 @@ Création de l’entreprise, du concept initial jusqu’à la production et la v
   * Azure, Docker, Podman, Proxmox
   * Notions de base : AWS, Docker swarm, Ansible, Terraform
 * **Environnements & IDE :** GitHub, GitLab, VSCode, Neovim, QtCreator, Visual Studio
-* **IA & LLM :** Prompt engineering, flows agentiques, évaluation d'agents LLM
+* **IA & LLM :** Développement IA, flows agentiques, évaluation d'agents LLM
 * **Offensif :** Exegol, Burp Suite, Caido
 * **Langues :** Français (natif), Anglais (proficient)
 
