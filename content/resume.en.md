@@ -6,7 +6,7 @@ hideMeta = true
 # Pierre Giusti ッ {style="text-align:center"}
  > After 10 years of experience in software development, I'm now focused on pentesting and offensive cybersecurity. I like digging deep into technical topics, learning, and building tools.  An unconventional path: carpenter, entrepreneur, Atlantic crossing under sail. When I commit to a project, I see it through to the end.
 
-#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] {style="text-align:center; line-height:1.9"}
+#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] . [ [hackthebox](https://app.hackthebox.com/public/users/910360) ] {style="text-align:center; line-height:1.9"}
 
 ## Experience {.resume-h2}
 
@@ -18,7 +18,7 @@ Startup specializing in AI-driven pentest automation.
 
 - Manual vulnerability research (bug bounty, AD labs, web labs), reproduction of exploitation paths through the platform, and iteration towards automated detection
 - Design of an evaluation framework for LLM-based pentest agents: multi-level scorers (embeddings, LLM-as-judge), baseline and regression detection
-- Autonomous web reconnaissance agent with real-time dashboard (FastAPI, React, bbot)
+- Autonomous web reconnaissance agent with real-time dashboard {{< resume/tag "FastAPI" >}} {{< resume/tag "bbot" >}}
 - Automated collection and enrichment pipeline for a cybersecurity knowledge base (crawling, LLM-based classification and scoring)
 
 **Tool development and test infrastructure:** {{< resume/tag "Python" >}} {{< resume/tag "Bash" >}} {{< resume/tag "Docker" >}}

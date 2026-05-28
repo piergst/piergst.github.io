@@ -6,7 +6,7 @@ hideMeta = true
 # Pierre Giusti ッ {style="text-align:center"}
  > Après 10 ans d'expérience en développement, je suis aujourd'hui focalisé sur le pentest et la cybersécurité offensive. J’aime creuser les sujets techniques, apprendre et développer des outils.  Parcours atypique : charpentier, entrepreneur, traversée de l’Atlantique à la voile. Quand je m'engage dans un projet, je vais au bout.
 
-#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] {style="text-align:center; line-height:1.9"}
+#### France\/Pyrénées <br> [ [piergst@protonmail.com](mailto:piergst@protonmail.com) ] . [ +33 6 77 23 86 65 ] <br> [ [blog](https://piergst.github.io) ] . [ [github](https://github.com/piergst) ] . [ [linkedin](https://www.linkedin.com/in/pierre-giusti-8aaa1b2b6)] . [ [hackthebox](https://app.hackthebox.com/public/users/910360) ]{style="text-align:center; line-height:1.9"}
 
 ## Expériences professionnelles {.resume-h2}
 
@@ -18,7 +18,7 @@ Startup spécialisée dans l'automatisation du pentest par IA.
 
 - Recherche manuelle de vulnérabilités (bug bounty, labs AD, labs web), reproduction des chemins d'exploitation via la plateforme, et itération jusqu'à détection automatisée
 - Développement d'un framework d'évaluation pour agents LLM de pentest : scorers multi-niveaux (embeddings, LLM-as-judge), et détection de régression
-- Agent de reconnaissance web autonome avec dashboard temps réel (FastAPI, React, bbot)
+- Agent de reconnaissance web autonome avec dashboard temps réel {{< resume/tag "FastAPI" >}} {{< resume/tag "bbot" >}}
 - Pipeline de collecte et d'enrichissement automatisé d'une base de connaissances cybersécurité (crawling, classification et scoring par LLM)
 
 **Développement d'outils et infrastructure de test :** {{< resume/tag "Python" >}} {{< resume/tag "Bash" >}} {{< resume/tag "Docker" >}}
