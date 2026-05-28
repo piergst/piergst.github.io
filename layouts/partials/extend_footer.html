@@ -61,3 +61,14 @@
 })();
 </script>
 {{- end }}
+
+{{- /* Language switcher: PaperMod links each entry to the target language's HOME.
+       Rewrite it to the current page's translation using the hreflang <link>
+       alternates Hugo emits per page (see head.html). Progressive enhancement:
+       without JS the link falls back to PaperMod's home behaviour. */ -}}
+<script>
+document.querySelectorAll('.lang-menu a').forEach((a) => {
+    const alt = document.querySelector(`link[rel="alternate"][hreflang="${a.textContent.trim()}"]`);
+    if (alt) a.href = alt.href;
+});
+</script>

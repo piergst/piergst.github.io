@@ -186,3 +186,42 @@ pre code {
 .copy-code--inline:active {
     transform: translateY(-50%) scale(0.88);
 }
+
+
+/* ============================================================
+   Resume tags — pill markers via the {{< resume/tag >}} shortcode.
+   Scope is the shortcode itself: the class only exists where it's called.
+   ============================================================ */
+
+.resume-tag {
+    display: inline-block;
+    padding: 0.05em 0.5em;
+    margin: 0 0.15em;
+    font-size: 0.85em;
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    color: var(--secondary);
+    white-space: nowrap;
+}
+
+/* Section titles: uppercase + full-width rule under them. */
+.resume-h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.35);
+    padding-bottom: 0.3em;
+}
+
+/* Role/entry titles: same accent pink as content links. */
+.resume-h3 {
+    color: var(--accent);
+}
+
+/* Inline <date> after a role title — smaller and muted; overrides the
+   accent colour and bold it would otherwise inherit from .resume-h3. */
+.resume-h3 date {
+    font-size: 0.7em;
+    font-weight: normal;
+    color: var(--secondary);
+    margin-left: 0.4em;
+}

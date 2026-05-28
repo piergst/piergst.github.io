@@ -35,6 +35,9 @@ defaultContentLanguageInSubdir = false
 [markup]
   [markup.highlight]
     style = "github-dark"
+  # Allow inline HTML (<br>, <date>, <heart>...) in markdown — safe here since all content is first-party.
+  [markup.goldmark.renderer]
+    unsafe = true
 
 
 [languages]
