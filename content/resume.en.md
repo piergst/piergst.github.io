@@ -89,8 +89,8 @@ construction.
 ### Offensive Security {.resume-h3}
 
 - Bug bounty (active bounties at **Paypal**)
-- Web security on PortSwigger Academy (+60% of labs)
-- Web, Active Directory, Linux, Prolabs on HackTheBox (Hacker Rank)
+- Web security on PortSwigger Academy (+65% of labs)
+- Web, Active Directory, Linux, Machines & Prolabs (Dante 100%) on HackTheBox (Hacker / Professional Rank)
 
 ### Cybersecurity Training @Jedha <date>October - December 2025</date> {.resume-h3}
 
