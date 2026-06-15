@@ -86,6 +86,7 @@ Création de l’entreprise, du concept initial jusqu’à la production et la v
 
 - Bug bounty (bounties en cours chez **Paypal**)
 - Web security sur PortSwigger Academy (+65% des labs)
+- Labs active directory : GOAD - GOAD-NHA, LeHack
 - Web, Active Directory, Linux, Machines & Prolabs (Dante 100%) sur HackTheBox (Hacker / Professional Rank)
 
 ### Formation Cybersécurité @Jedha <date>Octobre - Décembre 2025</date> {.resume-h3}

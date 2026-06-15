@@ -90,6 +90,7 @@ construction.
 
 - Bug bounty (active bounties at **Paypal**)
 - Web security on PortSwigger Academy (+65% of labs)
+- GOAD, GOAD-NHA, LeHack  active directory labs
 - Web, Active Directory, Linux, Machines & Prolabs (Dante 100%) on HackTheBox (Hacker / Professional Rank)
 
 ### Cybersecurity Training @Jedha <date>October - December 2025</date> {.resume-h3}
