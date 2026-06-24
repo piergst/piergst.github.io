@@ -43,9 +43,7 @@ Healthcare software solutions for independent practitioners (nurses, physiothera
 
 **DevOps** {{< resume/tag "Azure" >}} {{< resume/tag "Docker" >}}
 
-* Setup and supervision of CI/CD pipelines
-* Setup and management of cloud services
-* Setup and maintenance of development environments
+* Setup and supervision of CI/CD pipelines, cloud services and development environments
 
 ### Cofounder and CTO @Epur <date>2015 - 2022</date> {.resume-h3}
 
@@ -54,9 +52,11 @@ Creation of the company, from the initial concept to the production and sale of
 Development and commercialization of a portable CNC machine for timber frame
 construction.
 
-**Prototyping**
+**R&D, Prototyping & Industrialization**
 
 * Design, development, and manufacturing of the first two prototypes, entirely carried out by myself.
+* Supervision of R&D in mechanics, electronics, and software
+* Industrialization of technical solutions
 
 **Development** {{< resume/tag "C++/Qt/QML" >}} {{< resume/tag "Assembly" >}} {{< resume/tag "Embedded Linux" >}}
 
@@ -64,13 +64,7 @@ construction.
 * Development of embedded graphical applications and low-level software for hardware control
 * Development of custom algorithms for toolpath generation
 
-**R&D & Industrialization**
-
-* Supervision of R&D in mechanics, electronics, and software
-* Industrialization of technical solutions
-
 **Founder**
-
 * Operational management of the company
 * Project management
 * Team leadership
@@ -89,7 +83,7 @@ construction.
 ### Offensive Security {.resume-h3}
 
 - Bug bounty (active bounties at **Paypal**)
-- Web security on PortSwigger Academy (+65% of labs)
+- Web security on PortSwigger Academy (+70% of labs)
 - GOAD, GOAD-NHA, LeHack  active directory labs
 - Web, Active Directory, Linux, Machines & Prolabs (Dante 100%) on HackTheBox (Hacker / Professional Rank)
 

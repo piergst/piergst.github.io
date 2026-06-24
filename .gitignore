@@ -13,3 +13,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# PDF output
+resume-en.pdf
+resume-fr.pdf

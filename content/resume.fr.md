@@ -43,17 +43,16 @@ Solutions logicielles pour le domaine de la santé, à destination des praticien
 
 **Devops** {{< resume/tag "Azure" >}} {{< resume/tag "Docker" >}}
 
-* Mise en place et supervision CI/CD
-* Mise en place et supervision de services Cloud
-* Mise en place et supervision des environnements de développement
+* Mise en place et supervision CI/CD, services Cloud et environnements de développement
 
 ### Cofondateur et CTO @Epur <date>2015 - 2022</date> {.resume-h3}
 
 Création de l’entreprise, du concept initial jusqu’à la production et la vente de 100 unités par an (environ 2,5 M€ de chiffre d'affaires annuel et 25 salariés). Développement et commercialisation d'une machine numérique mobile pour la fabrication de charpente bois.
 
-**Prototypage**
-
+**R&D, Prototypage & Industrialisation**
 * Conception, développement et fabrication des deux premiers prototypes, intégralement réalisés par mes soins.
+* Pilotage de la recherche et développement en mécanique, électronique et software.
+* Industrialisation des solutions techniques
 
 **Développement** {{< resume/tag "C++/Qt/QML" >}} {{< resume/tag "Assembleur" >}} {{< resume/tag "Linux Embarqué" >}}
 
@@ -61,16 +60,10 @@ Création de l’entreprise, du concept initial jusqu’à la production et la v
 * Développement d'applications graphiques embarquées et de software bas niveau pour le pilotage hardware.
 * Développement d'algorithmes spécifiques de génération de parcours d’usinage.
 
-**R&D & Industrialisation**
-
-* Pilotage de la recherche et développement en mécanique, électronique et software.
-* Industrialisation des solutions techniques
-
 **Fondateur**
 
 * Gestion opérationnelle de l'entreprise
-* Gestion de projet
-* Management d'équipe
+* Gestion de projet, management d'équipe
 * Supervision de la chaîne d'approvisionnement.
 * Levée de fonds pour le financement de la production.
 
@@ -85,7 +78,7 @@ Création de l’entreprise, du concept initial jusqu’à la production et la v
 ### Sécurité offensive {.resume-h3}
 
 - Bug bounty (bounties en cours chez **Paypal**)
-- Web security sur PortSwigger Academy (+65% des labs)
+- Web security sur PortSwigger Academy (+70% des labs)
 - Labs active directory : GOAD - GOAD-NHA, LeHack
 - Web, Active Directory, Linux, Machines & Prolabs (Dante 100%) sur HackTheBox (Hacker / Professional Rank)
 
